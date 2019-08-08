@@ -36,7 +36,7 @@ public class createpage_junit {
 		 request.addParameter("product", "BROADBAND");
 		 request.addParameter("problemdescription", "ADDITIONAL CONNECTION");
 		 request.addParameter("contact", "739222687");
-		 request.addParameter("date", "13/04/2017");
+		 request.addParameter("date", "abc");
 		 request.addParameter("status", "NEW");
 		
 		obj.doPost(request, response);
